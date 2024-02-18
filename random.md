@@ -3,4 +3,10 @@
 ![image](https://github.com/nthnlgmz/imgs/assets/143614589/b72a65c4-ed24-4eae-8710-ef62002eb309)
 ![BOSH for SO2](https://github.com/nthnlgmz/imgs/assets/143614589/9852692b-ae08-4fe3-ae91-d849eb25f365)
 ![423105684_380211821277653_2449991052334144073_n](https://github.com/nthnlgmz/imgs/assets/143614589/b259022d-7577-4640-bb23-64555f136d23)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/7c69f65d-d139-467b-8987-d5817e0e6683)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/e444f7b4-4158-4d70-8b01-8493f5d0ed8f)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/b389c0bc-42e9-47ea-885f-a4ecee26ebe9)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/2cf1c4ed-7a10-4bf9-b5b9-d4597a593f76)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/3cfc3086-ce4e-446e-9965-0ac729b3cc8b)
+![image](https://github.com/nthnlgmz/imgs/assets/143614589/91280699-1f7a-4206-87ef-1cc198304f3f)
 
