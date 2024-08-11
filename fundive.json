@@ -1,31 +1,31 @@
 {
     "portfolioItems": [
         {
-            "class": "1 Person",
+            "class": "one",
             "src": [
                 "https://github.com/user-attachments/assets/09e63caa-6f7a-4de9-800a-09b4df924c1a"
             ]      
         },
         {
-            "class": "2 Persons",
+            "class": "two",
             "src": [
                 "https://github.com/user-attachments/assets/09e63caa-6f7a-4de9-800a-09b4df924c1a"
             ]      
         },
         {
-            "class": "3 Persons",
+            "class": "three",
             "src": [
                 "https://github.com/user-attachments/assets/09e63caa-6f7a-4de9-800a-09b4df924c1a"
             ]      
         },
         {
-            "class": "4 Persons",
+            "class": "four",
             "src": [
                 "https://github.com/user-attachments/assets/09e63caa-6f7a-4de9-800a-09b4df924c1a"
             ]      
         },
         {
-            "class": "5 Persons",
+            "class": "five",
             "src": [
                 "https://github.com/user-attachments/assets/09e63caa-6f7a-4de9-800a-09b4df924c1a"
             ]      
