@@ -48,4 +48,6 @@ ive-2person](https://github.com/user-attachments/assets/8390e87c-8c3c-4242-8709-
 ![FB_IMG_1747355516375](https://github.com/user-attachments/assets/69a4afbe-ba65-43aa-ba28-ecea620f9735)
 ![fundive-3person 1](https://github.com/user-attachments/assets/3565d3d2-3042-489a-950b-a25962c9b2b1)
 
+![P1280074](https://github.com/user-attachments/assets/bafa31fe-0b0b-4dac-9fb4-293e9a66e6e3)
+![P8270005](https://github.com/user-attachments/assets/8f48bcf4-8973-4c7c-9df0-60c328ee7eab)
 
